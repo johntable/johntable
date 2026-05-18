@@ -39,9 +39,7 @@ I wish to expound on the skills I learned in college and am eager to put them to
 </div>
 
 ## Projects
-<a href="https://github.com/johntable/Cybersec-Portfolio/blob/main/lab_write_ups/Network%20Analysis%20-%20Web%20Shell%20(Blue%20Team%20Labs%20Online).pdf">
-  <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github">
-</a><br>
+[Network Analysis Web Shell]("https://github.com/johntable/Cybersec-Portfolio/blob/main/lab_write_ups/Network%20Analysis%20-%20Web%20Shell%20(Blue%20Team%20Labs%20Online).pdf")<br>
 <a href="https://github.com/johntable/Cybersec-Portfolio/tree/30day/lab_write_ups/MYDFIR_30day">
 <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github">
 </a>
