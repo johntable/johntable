@@ -41,8 +41,7 @@ I wish to expound on the skills I learned in college and am eager to put them to
 
 ## Projects
 <a href="[https://github.com/johntable/Cybersec-Portfolio](https://github.com/johntable/Cybersec-Portfolio/blob/main/lab_write_ups/Network%20Analysis%20-%20Web%20Shell%20(Blue%20Team%20Labs%20Online).pdf)"><img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github" /></a>
-<a href="[https://github.com/johntable/Cybersec-Portfolio](https://github.com/johntable/Cybersec-Portfolio/blob/main/lab_write_ups/Network%20Analysis%20-%20Web%20Shell%20(Blue%20Team%20Labs%20Online).pdf)">
-<img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github" >
+<a href="https://github.com/johntable/Cybersec-Portfolio/blob/main/lab_write_ups/Network%20Analysis%20-%20Web%20Shell%20(Blue%20Team%20Labs%20Online).pdf">
+  <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github">
 </a>
-
 <a href=""><img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github" /> (in progress)
