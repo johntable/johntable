@@ -9,12 +9,12 @@ I wish to expound on the skills I learned in college and am eager to put them to
 
 ## Skills
 
-| Skill         | Associated Project                                                                                                                                                                                                                                               |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PCAP Analysis | <a href="https://github.com/johntable/Cybersec-Portfolio/blob/main/lab_write_ups/Network%20Analysis%20-%20Web%20Shell%20(Blue%20Team%20Labs%20Online).pdf"><br>  <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github"><br></a> |
-|               |                                                                                                                                                                                                                                                                  |
-|               |                                                                                                                                                                                                                                                                  |
-| ELK Stack     |                                                                                                                                                                                                                                                                  |
+| Skill         | Associated Project                                                                      |
+| ------------- | --------------------------------------------------------------------------------------- |
+| PCAP Analysis | <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github"> |
+|               |                                                                                         |
+|               |                                                                                         |
+| ELK Stack     |                                                                                         |
 ## Tools
 
 ### Networking
