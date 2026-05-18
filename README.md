@@ -18,9 +18,8 @@ I wish to expound on the skills I learned in college and am eager to put them to
 ## Tools
 
 ### Networking
-<div>
+
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
 
 ### Decryption
 <div>
