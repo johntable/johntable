@@ -9,12 +9,17 @@ I wish to expound on the skills I learned in college and am eager to put them to
 
 ## Skills
 
-| Skill         | Associated Project                                                                      |
-| ------------- | --------------------------------------------------------------------------------------- |
-| PCAP Analysis | <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github"> |
-|               |                                                                                         |
-|               |                                                                                         |
-| ELK Stack     |                                                                                         |
+| Skill                    | Associated Project                                                                                                                                                                   |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Threat Hunting           | <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github"> <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github"> |
+| Network Traffic Analysis | <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github">                                                                                              |
+| PCAP Analysis            | <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github">                                                                                              |
+| IOC Identification       | <img src="https://img.shields.io/badge/github-Net_Analysis_Web_Shell-blue?logo=github">                                                                                              |
+| ELK Stack Administration | <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github">                                                                                         |
+| Kibana Dashboarding      | <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github">                                                                                         |
+| Security Control Testing | <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github">                                                                                         |
+| Brute-force/Exfiltration | <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github">                                                                                         |
+| SIEM Alert Triage        | <img src="https://img.shields.io/badge/github-MYDFIR_SOC_30_Day_Challenge-blue?logo=github">                                                                                         |
 ## Tools
 
 ### Networking
